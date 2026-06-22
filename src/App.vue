@@ -96,7 +96,7 @@ onBeforeUnmount(() => clearTimeout(undoTimer))
           </span>
           <span>
             <strong class="block text-sm font-extrabold tracking-tight text-white"
-              >TASK/BOARD</strong
+              >to-do app</strong
             >
             <span class="font-mono text-[10px] tracking-[0.2em] text-cyan-300">BUILT WITH VUE</span>
           </span>
@@ -133,8 +133,8 @@ onBeforeUnmount(() => clearTimeout(undoTimer))
           <h1
             class="mt-4 max-w-3xl text-4xl font-extrabold leading-[0.98] tracking-[-0.055em] text-white sm:text-6xl lg:text-7xl"
           >
-            Focus on what<br />
-            <span class="text-gradient">moves forward.</span>
+            no more excuses,<br />
+            <span class="text-gradient">just do it.</span>
           </h1>
           <p class="mt-5 max-w-xl text-sm leading-6 text-slate-400 sm:text-base">
             A focused Kanban board for turning scattered thoughts into shipped work. Everything

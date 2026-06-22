@@ -3,7 +3,7 @@ import { expect, test } from '@playwright/test'
 test('creates, moves and persists a task', async ({ page }) => {
   await page.goto('/')
 
-  await expect(page.getByRole('heading', { name: /focus on what moves forward/i })).toBeVisible()
+  await expect(page.getByRole('heading', { name: /no more excuses, just do it/i })).toBeVisible()
   await page.getByLabel('Task title').fill('Prepare junior interview')
   await page.getByRole('button', { name: 'Add task' }).click()
 

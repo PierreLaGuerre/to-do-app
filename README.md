@@ -82,4 +82,4 @@ noise.
 
 ---
 
-Designed and built by [Pierre Guerrero](https://github.com/PierreLaGuerre).
+Designed and built by [Pierangelo Guerrero](https://github.com/PierreLaGuerre).
